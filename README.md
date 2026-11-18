@@ -1,6 +1,9 @@
 # 🚀 Trabajo Práctico Integrador - Metodología de Sistemas II
 
-Repositorio oficial correspondiente al Trabajo Práctico Integrador de la **Tecnicatura Universitaria en Programación (UTN)**. El proyecto aborda la refactorización integral de un sistema heredado ("God Class") aplicando principios SOLID, Clean Code, patrones de diseño y pruebas unitarias en Java.
+* **Alumno:** Rodrigo  Agüero
+* **Comisión:** M25 C4-02
+
+El proyecto aborda la refactorización integral de un sistema heredado ("God Class") aplicando principios SOLID, Clean Code, patrones de diseño y pruebas unitarias en Java.
 
 ---
 
